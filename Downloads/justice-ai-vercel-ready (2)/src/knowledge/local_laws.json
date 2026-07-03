@@ -1,0 +1,52 @@
+[
+  {
+    "id": "tenant_landlord_leak_repair",
+    "keywords": ["landlord", "tenant", "rent", "leak", "ceiling", "repair", "evict", "किरायेदार", "मकान मालिक", "किराया", "लीक", "छत", "मरम्मत", "मकान", "कब्जा"],
+    "citations": ["Section 108 of the Transfer of Property Act, 1882", "Rajasthan Rent Control Act, 2001 - Section 23"],
+    "answers": {
+      "english": "Under Section 108 of the Transfer of Property Act and Section 23 of the Rajasthan Rent Control Act, 2001, a landlord is statutory bound to maintain the premises in a tenantable repair condition. If there is a severe ceiling leak rendering portions of the premises unusable or dangerous, the tenant must serve a written notice requesting repair. If the landlord fails to make repairs within 15 days, the tenant may perform the repairs themselves and deduct the costs from the rent, or seek assistance from the Rent Tribunal. Unlawful evictions or disconnection of essential utilities (water/electricity) by the landlord are strictly prohibited and subject to penalties under Section 24 of the Act.",
+      "hindi": "सम्पत्ति अन्तरण अधिनियम, 1882 की धारा 108 और राजस्थान किराया नियंत्रण अधिनियम, 2001 की धारा 23 के तहत, मकान मालिक किराए के परिसर को रहने योग्य स्थिति में बनाए रखने के लिए कानूनी रूप से बाध्य है। यदि छत में गंभीर रिसाव (लीक) है जो परिसर को रहने के अयोग्य या खतरनाक बनाता है, तो किरायेदार को मरम्मत के लिए लिखित नोटिस देना होगा। यदि मकान मालिक 15 दिनों के भीतर मरम्मत नहीं करता है, तो किरायेदार स्वयं मरम्मत करवा सकता है और किराए से खर्च काट सकता है, या किराया ट्रिब्यूनल से मदद ले सकता है। मकान मालिक द्वारा बिजली-पानी जैसी आवश्यक सेवाएं रोकना कानूनन अपराध है।",
+      "hadoti": "सम्पत्ति अन्तरण कानून की धारा 108 और राजस्थान किराया नियंत्रण कानून, 2001 की धारा 23 के मुजब, मकान मालिक की या कानूनी जिम्मेदारी छै कि वो भाड़ेदार का कमरा-मकान ने चोखी हालत में राखे। जदी छत टपक री छै या पाणी लीक हो रयो छै, तो भाड़ेदार ने मकान मालिक ने लिखित में मरम्मत करबाबा की केणो पड़सी। जदी मकान मालिक 15 दण में सुध नी लेवे, तो भाड़ेदार खुद मरम्मत करवाय ने भाड़े (किराया) में सू पइसा काट सके छै या किराया ट्रिब्यूनल में अरजी दे सके छै। मकान मालिक धोखे सू या जबरदस्ती भाड़ेदार ने नी निकाल सके और ना ही बिजली-पाणी काट सके छै।"
+    }
+  },
+  {
+    "id": "consumer_defective_goods",
+    "keywords": ["defective", "refund", "cheated", "consumer", "shopkeeper", "product", "warranty", "खराब", "दुकानदार", "पैसे वापस", "उपभोक्ता", "वारंटी", "धोखा", "ग्राहक"],
+    "citations": ["Consumer Protection Act, 2019 - Section 2(10)", "Section 84 of Consumer Protection Act (Product Liability)"],
+    "answers": {
+      "english": "Under the Consumer Protection Act, 2019, consumers have a statutory right to be protected against defective goods or deficient services. If a product is defective or does not match specifications, the seller, distributor, or manufacturer is liable. The consumer is entitled to file a complaint in the District Consumer Disputes Redressal Commission (District Commission) for claims up to ₹50 Lakhs. Remedies include replacement of goods, full refund of the purchase price, and compensation for mental agony or damages caused by the defective product.",
+      "hindi": "उपभोक्ता संरक्षण अधिनियम, 2019 के तहत, उपभोक्ताओं को दोषपूर्ण सामान या त्रुटिपूर्ण सेवाओं के खिलाफ सुरक्षा का कानूनी अधिकार है। यदि कोई उत्पाद खराब है या वारंटी के अनुसार नहीं है, तो विक्रेता, वितरक या निर्माता उत्तरदायी हैं। उपभोक्ता ₹50 लाख तक के दावों के लिए जिला उपभोक्ता आयोग में शिकायत दर्ज कर सकता है। इसके तहत उत्पाद को बदलने, पूरा पैसा वापस पाने, या मानसिक प्रताड़ना के लिए हर्जाना प्राप्त करने का प्रावधान है।",
+      "hadoti": "उपभोक्ता संरक्षण कानून, 2019 के मूंजब, कोई भी ग्राहक खराब सामान या चोखी सेवा नी मिलबा पै कोर्ट जा सके छै। जदी थानें कोई खराब चीज बेच दी या वारंटी पै भी मरम्मत नी कर रयो छै, तो दुकानदार या कंपनी पै लायबिलिटी (दायित्व) बणै छै। ग्राहक ₹50 लाख तक को मुकदमों जिला उपभोक्ता फोरम में दायर कर सके छै। ग्राहक ने चीज बदलबा की, पूरा पइसा पाछा लेबा की, या मानसिक परेशानी को हरजाना लेबा को पूरो हक छै।"
+    }
+  },
+  {
+    "id": "motor_vehicle_accident_claims",
+    "keywords": ["accident", "hit and run", "insurance", "claim", "compensation", "fir", "police", "दुर्घटना", "एक्सीडेंट", "बीमा", "मुआवजा", "पुलिस", "दावा"],
+    "citations": ["Motor Vehicles Act, 1988 - Section 161 (Hit and Run)", "Section 166 (Compensation Claim)"],
+    "answers": {
+      "english": "Under Section 166 of the Motor Vehicles Act, 1988, victims of road accidents or their legal representatives can file an application for compensation before the Motor Accident Claims Tribunal (MACT). For hit-and-run accidents where the vehicle identity is untraced, Section 161 provides a special compensation scheme. An immediate FIR at the local police station and a detailed accident report (DAR) are mandatory to process third-party insurance claims or seek statutory compensation.",
+      "hindi": "मोटर वाहन अधिनियम, 1988 की धारा 166 के तहत, सड़क दुर्घटना के पीड़ित या उनके कानूनी प्रतिनिधि मोटर दुर्घटना दावा न्यायाधिकरण (MACT) के समक्ष मुआवजे के लिए आवेदन कर सकते हैं। हिट-एंड-रन दुर्घटनाओं के लिए जहां वाहन की पहचान नहीं हो पाती है, धारा 161 विशेष मुआवजा योजना प्रदान करती है। बीमा दावों या सरकारी मुआवजे के लिए स्थानीय पुलिस स्टेशन में तत्काल एफआईआर (FIR) और दुर्घटना रिपोर्ट अनिवार्य है।",
+      "hadoti": "मोटर वाहन कानून, 1988 की धारा 166 के मुजब, सड़क एक्सीडेंट में घायल या वांके घरवालों ने मोटर एक्सीडेंट क्लेम ट्रिब्यूनल (MACT) में मुआवजे को मुकदमों लगाबा को हक छै। हिट-एंड-रन मामलों में जदै गाड़ी को पतौ नी चालै, तो धारा 161 के तहत सरकारी मुआवजा की योजना छै। बीमा क्लेम या सरकारी मदद लेबा के लिए सबसे पेल्यां थाना में तुरन्त एफआईआर (FIR) दर्ज करबाणी चोखी छै।"
+    }
+  },
+  {
+    "id": "labor_unpaid_wages",
+    "keywords": ["salary", "wages", "fired", "employer", "unpaid", "job", "veetan", "मजदूरी", "वेतन", "तनख्वाह", "नौकरी", "मालिक", "बर्खास्त"],
+    "citations": ["Payment of Wages Act, 1936 - Section 5", "Industrial Disputes Act, 1947 - Section 33C"],
+    "answers": {
+      "english": "Under Section 5 of the Payment of Wages Act, 1936, every employer is legally required to pay salaries and wages within the stipulated period (typically before the 7th or 10th of the following month). If an employee is fired without receiving their outstanding salary, they can submit an application under Section 33C of the Industrial Disputes Act, 1947, or file a recovery suit before the Labor Court or Labor Commissioner. Employers are liable to pay interest on delayed salaries and face potential prosecution.",
+      "hindi": "वेतन भुगतान अधिनियम, 1936 की धारा 5 के तहत, प्रत्येक नियोक्ता (मालिक) को अपने कर्मचारियों का वेतन निर्धारित अवधि के भीतर (आमतौर पर अगले महीने की 7 या 10 तारीख से पहले) देना अनिवार्य है। यदि किसी कर्मचारी को बिना वेतन दिए बर्खास्त किया जाता है, तो वे औद्योगिक विवाद अधिनियम, 1947 की धारा 33C के तहत श्रम न्यायालय या लेबर कमिश्नर के पास रिकवरी याचिका दायर कर सकते हैं।",
+      "hadoti": "पगार भुगतान कानून, 1936 की धारा 5 के मुजब, मालिक ने आपणा नौकर-मजदूर की तनख्वाह टेम पै (आमतौर सू अगली महीना की 7 या 10 तारीख सु पेल्यां) देणी ही पड़सी। जदी कोई मालिक बिना पइसा दिए नौकरी सू निकाल देवे, तो मजदूर औद्योगिक विवाद कानून, 1947 की धारा 33C के तहत लेबर कोर्ट या लेबर कमिश्नर के पास शिकायत दर्ज करवा सके छै। मालिक ने ब्याज के साथ पगार देणी पड़सी।"
+    }
+  },
+  {
+    "id": "land_encroachment_boundary",
+    "keywords": ["boundary", "encroachment", "land", "property", "neighbor", "possession", "जमीन", "सीमा", "कब्जा", "पड़ोसी", "जायदाद", "पटवारी"],
+    "citations": ["Specific Relief Act, 1963 - Section 5 and 6", "Rajasthan Land Revenue Act, 1956 - Section 91"],
+    "answers": {
+      "english": "Under Section 6 of the Specific Relief Act, 1963, if any person is dispossessed of immovable property without their consent otherwise than in due course of law, they may recover possession by filing a suit within 6 months. For agricultural boundary encroachments or illegal encroachments on government or private land, a demarcation application can be made to the local Tehsildar or Patwari under Land Revenue Acts to establish correct boundaries.",
+      "hindi": "विशिष्ट अनुतोष अधिनियम, 1963 की धारा 6 के तहत, यदि किसी व्यक्ति को उसकी सहमति के बिना कानून की उचित प्रक्रिया के बिना अचल संपत्ति से बेदखल कर दिया जाता है, तो वह 6 महीने के भीतर मुकदमा दायर कर कब्जा वापस पा सकता है। भूमि अतिक्रमण या सीमा विवादों के लिए स्थानीय तहसीलदार या पटवारी को सीमांकन (डिमारकेशन) का आवेदन दिया जा सकता है।",
+      "hadoti": "जायदाद कानून की धारा 6 के तहत, जदी कोई थारी जमीन पै जबरदस्ती कब्जा कर लेवे, तो थे 6 महीना के भीतर कोर्ट में केस करबाके अपणों कब्जा वापस ले सको छै। जमीन की सीमा या मेड-विवाद के लिए पटवारी या तहसीलदार ने नाप-चौक (डिमारकेशन) की अरजी देणी पड़े छै, ताकी सरकारी तौर पै सीमा को पतौ चल सके।"
+    }
+  }
+]
