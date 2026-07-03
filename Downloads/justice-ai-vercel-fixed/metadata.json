@@ -1,0 +1,6 @@
+{
+  "name": "Justice AI",
+  "description": "A secure, modular REST API backend for legal intelligence, notice generation, contract analysis, and voice-assisted counseling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
